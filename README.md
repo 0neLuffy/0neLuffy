@@ -59,9 +59,3 @@ Dedicated to self-learning web technologies, including HTML, CSS, JavaScript, Fl
 - Spanish: Native
 - English: Intermediate
 
-## References
-
-- Leidy Montoya Salcedo / Sicte Coordinator / +318 523 3512
-- Christian Fernando Ariza / PM manager Adecco / +315 785 2886
-- Humberto Gambia / PM manager Dico / +302 242 9784
-
