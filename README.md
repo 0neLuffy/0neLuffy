@@ -3,7 +3,6 @@
 ## About Me
 
 - **Name:** Ricardo Monroy Palacios
-- **Phone:** 311 307 8801
 - **Email:** rimopa93@gmail.com
 
 ## Professional Summary
