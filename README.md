@@ -4,6 +4,7 @@
 
 - **Name:** Ricardo Monroy Palacios
 - **Email:** rimopa93@gmail.com
+- - **linkedin:** https://www.linkedin.com/in/ricardo-monroy-9b030b288/
 
 ## Professional Summary
 
